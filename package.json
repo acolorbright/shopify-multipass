@@ -1,0 +1,21 @@
+{
+	"name": "@acolorbright/shopify-multipass",
+	"version": "1.0.0",
+	"description": "",
+	"license": "MIT",
+	"repository": "acolorbright/shopify-multipass",
+	"author": {
+		"name": "Jurriaan Topper",
+		"email": "jurriaan@acolorbright.com",
+		"url": "https://www.acolorbright.com/"
+	},
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"files": ["index.js", "index.d.ts"]
+}
