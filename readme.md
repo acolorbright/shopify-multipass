@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm install shopify-multipass
+npm install @acolorbright/shopify-multipass
 ```
 
 ## Usage
