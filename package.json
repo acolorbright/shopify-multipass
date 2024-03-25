@@ -1,6 +1,6 @@
 {
 	"name": "@acolorbright/shopify-multipass",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"license": "MIT",
 	"repository": "acolorbright/shopify-multipass",
@@ -17,5 +17,8 @@
 	"engines": {
 		"node": ">=18"
 	},
-	"files": ["index.js", "index.d.ts"]
+	"files": [
+		"index.js",
+		"index.d.ts"
+	]
 }
